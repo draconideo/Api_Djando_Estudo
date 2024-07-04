@@ -1,5 +1,5 @@
 from django.db import models
-from django import forms # método para criar um hash na senha (mudar o número por asterisco)
+from django import forms # método para criar um hash na senha (mudar o número por asterisco).
 
 # aplicação de cadastro de usuário
 # aqui, criamos as tabelas do bando de dados, como se fosse um CREATE do SQL.
